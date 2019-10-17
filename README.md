@@ -39,3 +39,21 @@ We have gathered all the presentations and works that the teams did during the G
 :eight_pointed_black_star: Vule i drugari team: https://github.com/iamvukasin/GTH-Belgrade-Vule_i_drugari
 
 :eight_pointed_black_star: The Social Circle team: https://github.com/djuricicsuzana/GTH-Belgrade-TheSocialCircleWeb
+
+### :uk: London
+
+:eight_pointed_black_star: AllerG Gator team: https://github.com/mdave16/GTH-London-AllerGGator
+
+:eight_pointed_black_star: Wanderlust team: https://github.com/aajn88/GTH-Location-TeamName
+
+:eight_pointed_black_star: Through Our Eyes team: https://github.com/agrover86/through-our-eyez
+
+:eight_pointed_black_star: Pepe team: https://github.com/brapifra/GTH-London-Pepe
+
+:eight_pointed_black_star: Koarus team: https://github.com/Numrasiel/GTH-Location-TeamName
+
+:eight_pointed_black_star: Lightpath team: https://github.com/river-honer/lightpath
+
+:eight_pointed_black_star: LMT team: https://github.com/Numrasiel/GTH-Location-TeamName
+
+:eight_pointed_black_star: OCA team: https://github.com/charlesghost/GTH-London-OCA
