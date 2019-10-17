@@ -67,7 +67,7 @@ We have gathered all the presentations and works that the teams did during the G
 
 :eight_pointed_black_star: OCA team: https://github.com/charlesghost/GTH-London-OCA
 
-##  :trophy: Winners of the Global Travel Hackathon
+## :trophy: Winners of the Global Travel Hackathon :trophy:
 
 :tada: The winners of the Global Round of our #HackTravel, and of €4,000 for their travels are: **Penguin Bots team** :tada:
 
