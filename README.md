@@ -6,6 +6,15 @@ We have gathered all the presentations and works that the teams did during the G
 1. https://medium.com/@rose.ux.bcn/getting-my-design-mojo-back-surviving-kiwi-coms-24-hour-hackathon-cb246c5a1ed5
 2. https://medium.com/@aristos.michaelides/my-first-hackathon-as-a-ux-ui-designer-d7fbd7c34602
 
+## :movie_camera: Videos
+
+1. https://youtu.be/RhTWOqkMzFI 
+
+## :camera: Photos
+
+1. https://bit.ly/2BlufKY
+2. https://bit.ly/31ob3H9
+
 ## :rocket: Team project submissions
 
 ### :es: Barcelona
@@ -57,3 +66,13 @@ We have gathered all the presentations and works that the teams did during the G
 :eight_pointed_black_star: LMT team: https://github.com/Numrasiel/GTH-Location-TeamName
 
 :eight_pointed_black_star: OCA team: https://github.com/charlesghost/GTH-London-OCA
+
+##  :trophy: Winners of the Global Travel Hackathon
+
+:tada: The winners of the Global Round of our #HackTravel, and of €4,000 for their travels are: **Penguin Bots team** :tada:
+
+The Penguin Bots 🐧 won second place in Barcelona and got a wild card to participate in the Global Round, where the Kiwi.com jury appreciated their Chrome extension supporting local music groups.
+
+What exactly did they appreciate?
+
+We were excited about how they connected travel with music in the pre-trip phase. This way, they can inspire others when searching for a weekend getaway — or get you into the mood for visiting places far away. Plus, the fact that Elises and Oriol delivered a working solution within the given hackathon time and focused on simplicity, convinced us that they are the winners.
