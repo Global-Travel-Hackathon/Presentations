@@ -31,3 +31,11 @@ We have gathered all the presentations and works that the teams did during the G
 :eight_pointed_black_star: Nomadays team: https://github.com/rickimoore/GTH-Barcelona-Nomadays
 
 :eight_pointed_black_star: AWESOME team: https://github.com/sneatkeen/tree-calc
+
+### 🇷🇸 Belgrade
+
+:eight_pointed_black_star: GitGud team: https://github.com/pajo29/GTH-Location-TeamName
+
+:eight_pointed_black_star: Vule i drugari team: https://github.com/iamvukasin/GTH-Belgrade-Vule_i_drugari
+
+:eight_pointed_black_star: The Social Circle team: https://github.com/djuricicsuzana/GTH-Belgrade-TheSocialCircleWeb
