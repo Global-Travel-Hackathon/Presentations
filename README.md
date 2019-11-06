@@ -3,10 +3,12 @@ We have gathered all the presentations and works that the teams did during the G
 
 ## :scroll: Articles about the Global Hackathon
 
-1. https://medium.com/@rose.ux.bcn/getting-my-design-mojo-back-surviving-kiwi-coms-24-hour-hackathon-cb246c5a1ed5
-2. https://medium.com/@aristos.michaelides/my-first-hackathon-as-a-ux-ui-designer-d7fbd7c34602
-3. https://www.voicehackathon.org/winners-2019
-4. https://code.kiwi.com/and-the-winner-of-the-global-travel-hackathon-is-fb9ac6c1abac
+1. https://code.kiwi.com/5-reasons-you-cannot-miss-the-global-travel-hackathon-f18a8483141b
+2. https://medium.com/@rose.ux.bcn/getting-my-design-mojo-back-surviving-kiwi-coms-24-hour-hackathon-cb246c5a1ed5
+3. https://medium.com/@aristos.michaelides/my-first-hackathon-as-a-ux-ui-designer-d7fbd7c34602
+4. https://www.voicehackathon.org/winners-2019
+5. https://code.kiwi.com/and-the-winner-of-the-global-travel-hackathon-is-fb9ac6c1abac
+6. https://www.travolution.com/articles/113097/kiwicom-announces-winner-of-2019-global-travel-hackaton
 
 ## :movie_camera: Videos
 
