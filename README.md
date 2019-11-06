@@ -6,6 +6,7 @@ We have gathered all the presentations and works that the teams did during the G
 1. https://medium.com/@rose.ux.bcn/getting-my-design-mojo-back-surviving-kiwi-coms-24-hour-hackathon-cb246c5a1ed5
 2. https://medium.com/@aristos.michaelides/my-first-hackathon-as-a-ux-ui-designer-d7fbd7c34602
 3. https://www.voicehackathon.org/winners-2019
+4. https://code.kiwi.com/and-the-winner-of-the-global-travel-hackathon-is-fb9ac6c1abac
 
 ## :movie_camera: Videos
 
